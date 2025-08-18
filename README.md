@@ -1,2 +1,2 @@
-# Banking_project
+# Banking_ML_Project
 Banking_project
